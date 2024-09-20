@@ -1,0 +1,36 @@
+.card{
+    background-color: rgb(229, 95, 58);
+    background-position: center;
+}
+
+.card-body{
+    background-color: rgba(15, 128, 109, 0.936);
+background-position: center;
+}
+.Menu{
+    background-color: rgb(151, 61, 215);
+    font-size: x-large;
+}
+.addclub{
+    background-color: rgb(207, 132, 179);
+    font-size: x-large;
+}
+.mt-4{
+    background-color: rgb(184, 181, 133);
+}
+.table-bordered{
+    background-color: rgb(26, 190, 231);
+}
+#club-table-body{
+    background-color: rgb(197, 203, 206);
+}
+.container{
+    background-image:url("./259764.jpg");
+    height:100vh;
+    width:100%;
+    background-position: center;
+
+
+
+    
+}
